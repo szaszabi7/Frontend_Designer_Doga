@@ -1,0 +1,27 @@
+#error {
+    color: red;
+}
+
+.inputok {
+    width: 100%;
+}
+
+label {
+    margin-top: 1em;
+}
+
+#elonezet {
+    text-align: center;
+    width: 30%;
+    padding: 1em;
+}
+
+.content {
+    margin: auto;
+    width: 30%;
+}
+
+.gomb {
+    text-align: center;
+    margin: 1em auto 1em auto;
+}
